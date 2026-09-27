@@ -1,0 +1,919 @@
+
+---
+
+更新时间：00:47:33  OpenCV实现图片滤镜效果处理
+
+<h1>AI Builders Digest 今日热点快报</h1>
+
+
+React Native跨平台新闻浏览App的开发指南 ｜来源：http://mobile.kyggt.com/Article/details/184167.sHtML
+
+
+
+Spring Boot在线投票统计管理系统 ｜来源：http://mobile.bbpcgn.cn/Article/details/399148.sHtML
+
+
+
+Swift实现iOS生物识别登录演示｜来源：http://m.aa738.cn/Article/details/513971.sHtML
+
+
+
+JavaScript WebSocket聊天室基础版的完整实现 ｜来源：http://m.aa709.cn/Article/details/329024.sHtML
+
+
+
+游戏帧率优化简易工具程序 ｜来源：http://m.ab038.cn/Article/details/547128.sHtML
+
+
+
+TensorFlow实现文本摘要生成程序 ｜来源：http://m.ab090.cn/Article/details/109294.sHtML
+
+
+
+机场航班起降信息展示程序 ｜来源：http://m.aa869.cn/Article/details/316825.sHtML
+
+
+
+JavaScript基础对象创建与属性操作详解｜来源：http://m.aa615.cn/Article/details/686443.sHtML
+
+
+
+Python实现语音识别转文字工具 ｜来源：http://m.ab034.cn/Article/details/427336.sHtML
+
+
+
+Python实现随机生成藏头诗工具 ｜来源：http://m.ab342.cn/Article/details/870347.sHtML
+
+
+
+Swift实现基础数组过滤程序 ｜来源：http://m.aa695.cn/Article/details/851782.sHtML
+
+
+
+Spring Boot视频上传转码管理系统 ｜来源：http://m.ab347.cn/Article/details/075649.sHtML
+
+
+
+Go语言实现二叉树后序遍历｜来源：http://m.ab050.cn/Article/details/308939.sHtML
+
+
+
+Kotlin实现安卓消消乐简易版 ｜来源：http://m.aa595.cn/Article/details/099280.sHtML
+
+
+
+SQLite实现Swift数据库操作 ｜来源：http://m.ab176.cn/Article/details/852633.sHtML
+
+
+
+智能植物叶片病害识别诊断程序 ｜来源：http://m.ab237.cn/Article/details/691776.sHtML
+
+
+
+Arduino实现超声波测距工具 ｜来源：http://m.aa783.cn/Article/details/101659.sHtML
+
+
+
+PHP实现简单HTTP接口服务｜来源：http://m.aa604.cn/Article/details/394424.sHtML
+
+
+
+PHP实现希尔排序算法程序 ｜来源：http://m.aa891.cn/Article/details/475646.sHtML
+
+
+
+PHP在线代码运行沙箱的安全隔离实现方案 ｜来源：http://m.ab221.cn/Article/details/005145.sHtML
+
+
+
+
+恶意文件特征码检测简易程序 ｜来源：http://m.aa843.cn/Article/details/427423.sHtML
+
+
+
+CSS3实现3D卡片翻转动画效果 ｜来源：http://m.dlnuv.cn/Article/details/100847.sHtML
+
+
+
+Kotlin实现安卓局域网聊天工具｜来源：http://m.efqrx.cn/Article/details/425173.sHtML
+
+
+
+手机流量使用监控告警程序 ｜来源：http://m.cd197.cn/Article/details/616347.sHtML
+
+
+
+Java JSON数据复杂解析程序的实现指南 ｜来源：http://m.cd1996.cn/Article/details/621794.sHtML
+
+
+
+Java实现二叉树前序遍历程序 ｜来源：http://m.jmyfme.cn/Article/details/062501.sHtML
+
+
+
+Redis数据持久化监控程序 ｜来源：http://m.suihuamh.cn/Article/details/951245.sHtML
+
+
+
+Sklearn实现K-means聚类算法演示｜来源：http://m.gongzhulingzj.cn/Article/details/641221.sHtML
+
+
+
+Sklearn实现PCA数据降维演示 ｜来源：http://m.tianmenqm.cn/Article/details/452444.sHtML
+
+
+
+Ruby游戏服务器运行状态监控脚本开发 ｜来源：http://m.xinxiangzn.cn/Article/details/817362.sHtML
+
+
+
+
+
+
+C语言实现简单DNS查询工具 ｜来源：http://m.yxbdcdj.cn/Article/details/005743.sHtML
+
+
+
+Kotlin安卓在线题库刷题App核心逻辑实现 ｜来源：http://m.jhnmh.cn/Article/details/438862.sHtML
+
+
+
+物联网环境噪音实时监测告警程序｜来源：http://m.bscgn.cn/Article/details/576039.sHtML
+
+
+
+短视频脚本自动生成程序 ｜来源：http://m.fuwxt.cn/Article/details/959354.sHtML
+
+
+
+C++实现归并排序算法演示 ｜来源：http://m.jekus.cn/Article/details/442555.sHtML
+
+
+
+SpringBoot实现文件断点续传接口 ｜来源：http://m.ecmpr.cn/Article/details/027264.sHtML
+
+
+
+PHP实现字符串最长公共子串 ｜来源：http://m.berql.cn/Article/details/284096.sHtML
+
+
+
+ThinkPHP实现RBAC权限控制接口｜来源：http://m.qldfr.cn/Article/details/254780.sHtML
+
+
+
+学生课堂签到随机点名程序 ｜来源：http://m.qogwx.cn/Article/details/176584.sHtML
+
+
+
+CSS实现响应式瀑布流布局效果 ｜来源：http://m.lyvfh.cn/Article/details/649546.sHtML
+
+
+
+
+
+
+Go语言实现简单变量运算程序 ｜来源：http://m.rpyqm.cn/Article/details/754388.sHtML
+
+
+
+Java拼图小游戏程序的图片切割与逻辑实现 ｜来源：http://m.fskangfan.com/Article/details/606758.sHtML
+
+
+
+Swift基础数组过滤与高阶函数使用教程｜来源：http://m.ywool.cn/Article/details/812195.sHtML
+
+
+
+共识算法简易演示程序 ｜来源：http://m.uupps.cn/Article/details/386913.sHtML
+
+
+
+Python Markdown文档批量转HTML工具 ｜来源：http://m.xdami.cn/Article/details/551217.sHtML
+
+
+
+SQLite实现PHP数据库操作 ｜来源：http://m.tusoo.cn/Article/details/689050.sHtML
+
+
+
+Ruby文件差异对比工具的算法实现详解 ｜来源：http://m.duspp.cn/Article/details/401839.sHtML
+
+
+
+企业经营财务数据看板生成程序｜来源：http://m.cxcce.cn/Article/details/876209.sHtML
+
+
+
+Flutter跨平台笔记同步App ｜来源：http://m.yrwh2.cn/Article/details/628742.sHtML
+
+
+
+读者写者问题模拟程序 ｜来源：http://m.asspp.cn/Article/details/212616.sHtML
+
+
+
+
+
+
+Java图片转字符画生成程序的算法实现详解 ｜来源：http://m.zxpps.cn/Article/details/571866.sHtML
+
+
+
+Go语言两个有序数组合并的高效实现 ｜来源：http://m.gzsiji.cn/Article/details/958338.sHtML
+
+
+
+Kotlin实现安卓蓝牙文件传输工具｜来源：http://m.hejia-media.cn/Article/details/948257.sHtML
+
+
+
+Python体检报告数据自动解析整理工具开发 ｜来源：http://m.wykj1.cn/Article/details/274483.sHtML
+
+
+
+校园外卖代取互助小程序 ｜来源：http://m.ghqy2.cn/Article/details/760756.sHtML
+
+
+
+Kotlin实现安卓蓝牙文件传输工具 ｜来源：http://m.liaoningxincheng.cn/Article/details/982720.sHtML
+
+
+
+栈与队列操作模拟程序 ｜来源：http://m.gzsijiyg.cn/Article/details/102176.sHtML
+
+
+
+Sklearn实现K-means聚类算法演示｜来源：http://m.028wang.cn/Article/details/149967.sHtML
+
+
+
+PHP实现在线文件压缩解压工具 ｜来源：http://m.sxwh7.cn/Article/details/681063.sHtML
+
+
+
+数据库用户权限批量管理程序 ｜来源：http://m.hrbytkj.cn/Article/details/830738.sHtML
+
+
+
+
+
+
+图片猫狗二分类识别程序 ｜来源：http://m.hzybhb.cn/Article/details/290287.sHtML
+
+
+
+Flutter实现跨平台笔记记录App ｜来源：http://m.sdctyg.cn/Article/details/879924.sHtML
+
+
+
+游戏热键自定义设置程序｜来源：http://m.hljtzkj.cn/Article/details/575230.sHtML
+
+
+
+Java CSV文件批量处理程序的实现指南 ｜来源：http://m.hrbdhkj.cn/Article/details/657475.sHtML
+
+
+
+创意表情包自动生成程序 ｜来源：http://m.hfouo.cn/Article/details/134495.sHtML
+
+
+
+Flutter实现跨平台电商首页简易版 ｜来源：http://m.qubbq.cn/Article/details/592286.sHtML
+
+
+
+城市本地探店打卡分享小程序 ｜来源：http://m.dcyygf.com/Article/details/084486.sHtML
+
+
+
+U盘病毒简单防护检测程序｜来源：http://m.bglnp.com/Article/details/542697.sHtML
+
+
+
+Merkle树构建验证程序 ｜来源：http://m.hhnkq.com/Article/details/332892.sHtML
+
+
+
+Java链表反转的递归与非递归实现详解 ｜来源：http://m.tamth.com/Article/details/806439.sHtML
+
+
+
+
+
+
+Sklearn实现随机森林回归预测 ｜来源：http://m.kyggt.com/Article/details/056615.sHtML
+
+
+
+线上课程学习进度跟踪管理系统 ｜来源：http://m.bbpcgn.cn/Article/details/301802.sHtML
+
+
+
+Python实现五子棋人机对战游戏｜来源：http://wap.aa738.cn/Article/details/190428.sHtML
+
+
+
+JavaScript动态规划入门的经典案例解析 ｜来源：http://wap.aa709.cn/Article/details/388984.sHtML
+
+
+
+Python实现安全日志分析检测工具 ｜来源：http://wap.ab038.cn/Article/details/216975.sHtML
+
+
+
+校园快递驿站取件通知管理系统 ｜来源：http://wap.ab090.cn/Article/details/351409.sHtML
+
+
+
+Swift系统剪贴板历史记录工具的开发实战 ｜来源：http://wap.aa869.cn/Article/details/976927.sHtML
+
+
+
+邮件客户端简易收发实现程序｜来源：http://wap.aa615.cn/Article/details/853576.sHtML
+
+
+
+藏头诗自动生成程序 ｜来源：http://wap.ab034.cn/Article/details/770935.sHtML
+
+
+
+Ruby文字版扫雷小游戏的开发实战 ｜来源：http://wap.ab342.cn/Article/details/871181.sHtML
+
+
+
+
+
+
+Swift实现iOS网络请求封装工具 ｜来源：http://wap.aa695.cn/Article/details/613979.sHtML
+
+
+
+C语言简单链表数据管理程序的开发教程 ｜来源：http://wap.ab347.cn/Article/details/647157.sHtML
+
+
+
+图片透视变换校正程序｜来源：http://wap.ab050.cn/Article/details/877645.sHtML
+
+
+
+Python天气预报自动获取推送脚本 ｜来源：http://wap.aa595.cn/Article/details/042383.sHtML
+
+
+
+毕业设计选题与答辩管理系统 ｜来源：http://wap.ab176.cn/Article/details/260180.sHtML
+
+
+
+会议纪要自动整理排版程序 ｜来源：http://wap.ab237.cn/Article/details/803090.sHtML
+
+
+
+C语言实现队列数据结构管理 ｜来源：http://wap.aa783.cn/Article/details/742775.sHtML
+
+
+
+Cocos实现2D消消乐小游戏｜来源：http://wap.aa604.cn/Article/details/145614.sHtML
+
+
+
+Java实现FTP文件批量上传下载 ｜来源：http://wap.aa891.cn/Article/details/951894.sHtML
+
+
+
+Swift iOS简单AR小互动程序的入门开发教程 ｜来源：http://wap.ab221.cn/Article/details/121321.sHtML
+
+
+
+
+
+
+Java SMTP邮件发送程序的开发与配置指南 ｜来源：http://wap.aa843.cn/Article/details/209854.sHtML
+
+
+
+物理运动轨迹模拟演示程序 ｜来源：http://wap.dlnuv.cn/Article/details/128278.sHtML
+
+
+
+JavaScript基金收益实时计算器网页工具开发｜来源：http://wap.efqrx.cn/Article/details/367278.sHtML
+
+
+
+C语言实现判断奇偶性的程序 ｜来源：http://wap.cd197.cn/Article/details/879755.sHtML
+
+
+
+SpringBoot实现文件断点续传接口 ｜来源：http://wap.cd1996.cn/Article/details/611345.sHtML
+
+
+
+Laravel实现缓存队列结合使用 ｜来源：http://wap.jmyfme.cn/Article/details/790057.sHtML
+
+
+
+JavaScript WebSocket实时通信的完整实现 ｜来源：http://wap.suihuamh.cn/Article/details/119468.sHtML
+
+
+
+Sklearn实现K-means聚类算法演示｜来源：http://wap.gongzhulingzj.cn/Article/details/942997.sHtML
+
+
+
+日常步数目标达成提醒程序 ｜来源：http://wap.tianmenqm.cn/Article/details/003795.sHtML
+
+
+
+C++实现大数据量快速排序工具 ｜来源：http://wap.xinxiangzn.cn/Article/details/897575.sHtML
+
+
+
+
+
+
+Java Excel文件POI操作程序的实现指南 ｜来源：http://wap.yxbdcdj.cn/Article/details/511000.sHtML
+
+
+
+C语言实现求三个数最大值程序 ｜来源：http://wap.jhnmh.cn/Article/details/250281.sHtML
+
+
+
+诗词自动生成创作程序｜来源：http://wap.bscgn.cn/Article/details/511694.sHtML
+
+
+
+Spring Boot新闻资讯发布管理系统 ｜来源：http://wap.fuwxt.cn/Article/details/318675.sHtML
+
+
+
+Ruby实现UDP聊天小程序 ｜来源：http://wap.jekus.cn/Article/details/485964.sHtML
+
+
+
+Python实现Pandas数据清洗实战 ｜来源：http://wap.ecmpr.cn/Article/details/298197.sHtML
+
+
+
+Java广度优先搜索算法的队列实现详解 ｜来源：http://wap.berql.cn/Article/details/700315.sHtML
+
+
+
+银行存款利息自动计算程序｜来源：http://wap.qldfr.cn/Article/details/664892.sHtML
+
+
+
+PostgreSQL实现存储过程编写示例 ｜来源：http://wap.qogwx.cn/Article/details/172645.sHtML
+
+
+
+在线图片压缩工具网页 ｜来源：http://wap.lyvfh.cn/Article/details/449429.sHtML
+
+
+
+
+
+
+Spring Cloud微服务订单拆分处理系统 ｜来源：http://wap.rpyqm.cn/Article/details/082998.sHtML
+
+
+
+MongoDB实现文档数据增删改查 ｜来源：http://wap.fskangfan.com/Article/details/162237.sHtML
+
+
+
+ESP32实现环境监测站数据采集｜来源：http://wap.ywool.cn/Article/details/315705.sHtML
+
+
+
+Swift实现基础数组过滤程序 ｜来源：http://wap.uupps.cn/Article/details/447568.sHtML
+
+
+
+日常步数目标达成提醒程序 ｜来源：http://wap.xdami.cn/Article/details/987344.sHtML
+
+
+
+Java银行短信验证码防刷接口的安全开发指南 ｜来源：http://wap.tusoo.cn/Article/details/351213.sHtML
+
+
+
+手机使用时长统计分析程序 ｜来源：http://wap.duspp.cn/Article/details/955249.sHtML
+
+
+
+MongoDB实现日志数据高效存储方案｜来源：http://wap.cxcce.cn/Article/details/152412.sHtML
+
+
+
+游戏自动连点辅助程序 ｜来源：http://wap.yrwh2.cn/Article/details/533612.sHtML
+
+
+
+社交好友生日自动提醒程序 ｜来源：http://wap.asspp.cn/Article/details/695746.sHtML
+
+
+
+
+
+
+Java简易在线答题系统后端核心模块开发 ｜来源：http://wap.zxpps.cn/Article/details/801103.sHtML
+
+
+
+Node.js实现WebSocket聊天室服务端 ｜来源：http://wap.gzsiji.cn/Article/details/432464.sHtML
+
+
+
+财务报表自动对账校验程序｜来源：http://wap.hejia-media.cn/Article/details/934350.sHtML
+
+
+
+Swift基础字典遍历与键值操作全指南 ｜来源：http://wap.wykj1.cn/Article/details/357868.sHtML
+
+
+
+Python实现AI歌词生成工具 ｜来源：http://wap.ghqy2.cn/Article/details/925836.sHtML
+
+
+
+PostgreSQL实现自定义函数编写 ｜来源：http://wap.liaoningxincheng.cn/Article/details/185317.sHtML
+
+
+
+JavaScript实现实时在线人数统计 ｜来源：http://wap.gzsijiyg.cn/Article/details/437008.sHtML
+
+
+
+Swift iOS网络测速小程序的开发教程｜来源：http://wap.028wang.cn/Article/details/879044.sHtML
+
+
+
+AI音乐旋律自动生成创作工具 ｜来源：http://wap.sxwh7.cn/Article/details/691778.sHtML
+
+
+
+C++多线程并行计算工具的性能优化指南 ｜来源：http://wap.hrbytkj.cn/Article/details/508324.sHtML
+
+
+
+
+
+
+读者写者问题模拟程序 ｜来源：http://wap.hzybhb.cn/Article/details/031951.sHtML
+
+
+
+Kotlin实现安卓简单相机拍照App ｜来源：http://wap.sdctyg.cn/Article/details/724064.sHtML
+
+
+
+视频背景音乐自动提取程序｜来源：http://wap.hljtzkj.cn/Article/details/301183.sHtML
+
+
+
+数据库分表分库简易演示程序 ｜来源：http://wap.hrbdhkj.cn/Article/details/593496.sHtML
+
+
+
+Python批量文件重命名工具 ｜来源：http://wap.hfouo.cn/Article/details/320942.sHtML
+
+
+
+学科知识点记忆曲线提醒程序 ｜来源：http://wap.qubbq.cn/Article/details/901605.sHtML
+
+
+
+图片懒加载演示交互页面 ｜来源：http://wap.dcyygf.com/Article/details/970494.sHtML
+
+
+
+Go语言HTTP请求批量测试工具的实现方案｜来源：http://wap.bglnp.com/Article/details/298989.sHtML
+
+
+
+广度优先搜索算法演示程序 ｜来源：http://wap.hhnkq.com/Article/details/786320.sHtML
+
+
+
+Swift实现iOS二维码扫描生成工具 ｜来源：http://wap.tamth.com/Article/details/034768.sHtML
+
+
+
+
+
+
+JS实现2048数字合成小游戏 ｜来源：http://wap.kyggt.com/Article/details/545913.sHtML
+
+
+
+简历批量自动筛选分类程序 ｜来源：http://wap.bbpcgn.cn/Article/details/228973.sHtML
+
+
+
+密码复杂度自动检测评估程序｜来源：http://guides.aa738.cn/Article/details/046179.sHtML
+
+
+
+51单片机实现交通灯模拟控制系统 ｜来源：http://guides.aa709.cn/Article/details/692118.sHtML
+
+
+
+HTML实现在线二维码生成页面 ｜来源：http://guides.ab038.cn/Article/details/471406.sHtML
+
+
+
+Python HTTP代理简易服务器的完整实现教程 ｜来源：http://guides.ab090.cn/Article/details/547634.sHtML
+
+
+
+Swift实现0-1背包问题求解 ｜来源：http://guides.aa869.cn/Article/details/009557.sHtML
+
+
+
+商品SKU批量管理程序｜来源：http://guides.aa615.cn/Article/details/815128.sHtML
+
+
+
+Kotlin实现安卓随机表情包生成器 ｜来源：http://guides.ab034.cn/Article/details/293713.sHtML
+
+
+
+多级反馈队列调度模拟程序 ｜来源：http://guides.ab342.cn/Article/details/943809.sHtML
+
+
+
+
+
+
+Go语言实现端口扫描检测程序 ｜来源：http://guides.aa695.cn/Article/details/514013.sHtML
+
+
+
+Arduino实现气体检测报警系统 ｜来源：http://guides.ab347.cn/Article/details/887877.sHtML
+
+
+
+智能花盆土壤湿度自动检测浇水程序｜来源：http://guides.ab050.cn/Article/details/217022.sHtML
+
+
+
+小众书单阅读打卡分享小程序 ｜来源：http://guides.aa595.cn/Article/details/813688.sHtML
+
+
+
+Python Excel数据批量导入导出工具开发 ｜来源：http://guides.ab176.cn/Article/details/775799.sHtML
+
+
+
+Python定时任务自动执行调度程序 ｜来源：http://guides.ab237.cn/Article/details/357650.sHtML
+
+
+
+PHP实现在线文件分享临时服务 ｜来源：http://guides.aa783.cn/Article/details/559895.sHtML
+
+
+
+过敏药物记录提醒程序｜来源：http://guides.aa604.cn/Article/details/253781.sHtML
+
+
+
+JavaScript实现本地表格数据可视化 ｜来源：http://guides.aa891.cn/Article/details/364671.sHtML
+
+
+
+城市地铁客流数据可视化分析程序 ｜来源：http://guides.ab221.cn/Article/details/834127.sHtML
+
+
+
+
+
+
+会议纪要自动整理排版程序 ｜来源：http://guides.aa843.cn/Article/details/983265.sHtML
+
+
+
+PHP简单网页版石头剪刀布游戏的开发实战 ｜来源：http://guides.dlnuv.cn/Article/details/447044.sHtML
+
+
+
+Ruby Excel数据批量合并工具的开发实战｜来源：http://guides.efqrx.cn/Article/details/447081.sHtML
+
+
+
+Django实现简单图片验证码服务 ｜来源：http://guides.cd197.cn/Article/details/731973.sHtML
+
+
+
+农业施肥方案推荐程序 ｜来源：http://guides.cd1996.cn/Article/details/867418.sHtML
+
+
+
+Swift实现iOS本地相册管理工具 ｜来源：http://guides.jmyfme.cn/Article/details/880733.sHtML
+
+
+
+Python AI生成简单简笔画程序的入门实战 ｜来源：http://guides.suihuamh.cn/Article/details/971258.sHtML
+
+
+
+Python Excel数据批量导入导出工具开发｜来源：http://guides.gongzhulingzj.cn/Article/details/021643.sHtML
+
+
+
+PHP实现AVL树平衡调整演示 ｜来源：http://guides.tianmenqm.cn/Article/details/289820.sHtML
+
+
+
+音频频谱实时可视化程序 ｜来源：http://guides.xinxiangzn.cn/Article/details/733082.sHtML
+
+
+
+
+
+
+多张图片自动拼接全景图程序 ｜来源：http://guides.yxbdcdj.cn/Article/details/537813.sHtML
+
+
+
+OpenCV实现图像拼接全景图程序 ｜来源：http://guides.jhnmh.cn/Article/details/173985.sHtML
+
+
+
+电动车充电桩位置查询程序｜来源：http://guides.bscgn.cn/Article/details/684635.sHtML
+
+
+
+医院门诊在线预约挂号管理系统 ｜来源：http://guides.fuwxt.cn/Article/details/741034.sHtML
+
+
+
+Kotlin基础空值处理的安全最佳实践 ｜来源：http://guides.jekus.cn/Article/details/315806.sHtML
+
+
+
+Python实现深度优先搜索算法 ｜来源：http://guides.ecmpr.cn/Article/details/616449.sHtML
+
+
+
+React实现简单聊天界面实时更新 ｜来源：http://guides.berql.cn/Article/details/925329.sHtML
+
+
+
+PHP实现完数判断算法程序｜来源：http://guides.qldfr.cn/Article/details/972952.sHtML
+
+
+
+大模型驱动的代码漏洞扫描工具 ｜来源：http://guides.qogwx.cn/Article/details/896629.sHtML
+
+
+
+OpenCV实现图像去噪处理程序 ｜来源：http://guides.lyvfh.cn/Article/details/369301.sHtML
+
+
+
+
+
+
+C语言斐波那契数列递归版的性能优化 ｜来源：http://guides.rpyqm.cn/Article/details/929779.sHtML
+
+
+
+Kotlin完全背包问题的空间优化实现 ｜来源：http://guides.fskangfan.com/Article/details/440811.sHtML
+
+
+
+AI驱动的人脸美颜自动优化程序｜来源：http://guides.ywool.cn/Article/details/496449.sHtML
+
+
+
+Unity实现2D平台跳跃小游戏 ｜来源：http://guides.uupps.cn/Article/details/694649.sHtML
+
+
+
+PHP AVL树平衡调整的旋转操作完整教程 ｜来源：http://guides.xdami.cn/Article/details/802704.sHtML
+
+
+
+JavaScript二叉树中序遍历的Morris算法实现 ｜来源：http://guides.tusoo.cn/Article/details/404391.sHtML
+
+
+
+C++实现海量数据去重高效程序 ｜来源：http://guides.duspp.cn/Article/details/801032.sHtML
+
+
+
+游戏帧率优化简易工具程序｜来源：http://guides.cxcce.cn/Article/details/368664.sHtML
+
+
+
+视频指定片段批量剪切程序 ｜来源：http://guides.yrwh2.cn/Article/details/381996.sHtML
+
+
+
+海报文字排版自动生成程序 ｜来源：http://guides.asspp.cn/Article/details/456478.sHtML
+
+
+
+
+
+
+Python实现批量文件重命名工具 ｜来源：http://guides.zxpps.cn/Article/details/362373.sHtML
+
+
+
+C++实现系统进程树查看程序 ｜来源：http://guides.gzsiji.cn/Article/details/873877.sHtML
+
+
+
+旅游网站景点点评数据爬取程序｜来源：http://guides.hejia-media.cn/Article/details/157662.sHtML
+
+
+
+网站目录爆破简易测试程序 ｜来源：http://guides.wykj1.cn/Article/details/768614.sHtML
+
+
+
+C语言简单数据排序统计程序的开发教程 ｜来源：http://guides.ghqy2.cn/Article/details/074034.sHtML
+
+
+
+Swift iOS信用卡账单管理小工具开发教程 ｜来源：http://guides.liaoningxincheng.cn/Article/details/062769.sHtML
+
+
+
+生日纪念日自动提醒程序 ｜来源：http://guides.gzsijiyg.cn/Article/details/084657.sHtML
+
+
+
+学生社团活动全生命周期管理系统｜来源：http://guides.028wang.cn/Article/details/778337.sHtML
+
+
+
+视频指定片段批量剪切程序 ｜来源：http://guides.sxwh7.cn/Article/details/404910.sHtML
+
+
+
+网络流量简单统计分析程序 ｜来源：http://guides.hrbytkj.cn/Article/details/472431.sHtML
+
+
+
+
+
+
+在线时钟动态效果网页 ｜来源：http://guides.hzybhb.cn/Article/details/170705.sHtML
+
+
+
+C语言学生成绩管理统计程序的开发教程 ｜来源：http://guides.sdctyg.cn/Article/details/536410.sHtML
+
+
+
+图片边缘检测提取轮廓程序｜来源：http://guides.hljtzkj.cn/Article/details/515080.sHtML
+
+
+
+简单P2P文件共享传输程序 ｜来源：http://guides.hrbdhkj.cn/Article/details/887479.sHtML
+
+
+
+React Native跨平台新闻浏览App的开发指南 ｜来源：http://guides.hfouo.cn/Article/details/769114.sHtML
+
+
+
+本地菜市场价格对比查询小程序 ｜来源：http://guides.qubbq.cn/Article/details/309817.sHtML
+
+
+
+Arduino实现超声波测距工具 ｜来源：http://guides.dcyygf.com/Article/details/528524.sHtML
+
+
+
+SQLite实现安卓本地数据库操作｜来源：http://guides.bglnp.com/Article/details/142670.sHtML
+
+
+
+TensorFlow实现目标检测YOLO简易版 ｜来源：http://guides.hhnkq.com/Article/details/231194.sHtML
+
+
+
+每日喝水定时提醒程序 ｜来源：http://guides.tamth.com/Article/details/947479.sHtML
+
+
+
+
+
+
+Ruby日志自动归档脚本的开发实战 ｜来源：http://guides.kyggt.com/Article/details/993194.sHtML
+
+
+
+校园外卖代取互助小程序 ｜来源：http://guides.bbpcgn.cn/Article/details/829022.sHtML
+
+
+
+Flutter实现跨平台随机抽签App｜来源：http://info.aa738.cn/Article/details/116185.sHtML
+
+
+
+OpenCV实现视频目标追踪程序 ｜来源：{顺
